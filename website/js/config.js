@@ -8,6 +8,6 @@ window._config = {
         invokeUrl: ' https://30in16toz6.execute-api.us-east-1.amazonaws.com/prod' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     },
     approval: {
-        email: 'ceo@mmobitechinc.net'
+        email: 'approval@mobitechpro.net'
     }
 };
